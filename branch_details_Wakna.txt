@@ -1,0 +1,8 @@
+Bank Name : ASRS Bank
+Branch Name : Waknaghat Branch
+Branch Code : 089
+IFSC CODE : ASRS0089
+Branch Address : A-101/23 Waknaghat Himachal Pradesh 
+Pincode : 173234
+Branch Mobile NO : 012345
+Manager Name : Akhil Dhawan

@@ -1,0 +1,8 @@
+Bank Name : ASRS Bank
+Branch Name : Solan Branch
+Branch Code : 098
+IFSC CODE : ASRS0098
+Branch Address : Z-101/32 Solan Himachal Pradesh 
+Pincode : 173213
+Branch Mobile NO : 987654
+Manager Name : Yashashvi Agnihotri
